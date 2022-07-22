@@ -7,11 +7,4 @@
 
 my skills are 
 
-1. HTML
-2. CSS
-3. Javascript 
-4. React
-5. git
-6. python 
-7. sql
-
+arduino bootstrap c cplusplus csharp css3 flask git heroku html5 java javascript linux mongodb mysql opencv oracle python pytorch react
